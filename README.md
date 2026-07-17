@@ -1,3 +1,73 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+body {
+  font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+  color: #ADD8E6;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+hr {
+  border: 0;
+  height: 2px;
+  background: #ADD8E6;
+  margin: 2rem 0;
+}
+</style>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Prompt%20Literacy-Project-%23ADD8E6?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Literacy Project Badge">
+  <br><br>
+  <h1 style="color:#ADD8E6; font-weight:700; margin-bottom:0;">Prompt Literacy Project</h1>
+  <p style="font-size:1.2rem; color:#555; margin-top:0.5rem;"><em>Why do some people consistently get better results from AI than others?</em></p>
+</div>
+
+---
+
+## Overview
+
+The Prompt Literacy Project is an independent, evidence‑based investigation into what separates effective AI prompts from ineffective ones. It combines primary survey data from **90+ South African university students**, hands‑on experiments, and a practical teaching framework called **CLEAR** to answer one core question:
+
+> **Why do some people consistently get better results from AI than others — and how can we teach everyone else to do the same?**
+
+This project turns that insight into open‑source curriculum, experiments, and tools anyone can use to improve their AI communication skills.
+
+---
+
+## Quick Links
+
+- [CLEAR Framework](research/prompt_framework.md)
+- [AI Limitations & Failure Modes](research/ai_limitations.md)
+- [Literature Review](research/literature_review.md)
+- [Experiments](experiments/)
+- [Curriculum](curriculum/)
+- [Evaluation Rubric](evaluation_rubric.md)
+- [Future Work](future_work.md)
+
+---
+
+## The CLEAR Framework
+
+One major outcome of this project is the **CLEAR** prompt framework — a simple, memorable guide for writing better prompts:
+
+- **C**ontext – Provide background, audience, and purpose.
+- **L**imitations – Set boundaries (e.g., "Do not speculate," "Use only provided info").
+- **E**xamples – Show the model the format or style you expect.
+- **A**udience – Specify who the response is for (a 14‑year‑old, a CEO, etc.).
+- **R**equirements – Give clear constraints (length, tone, must‑include elements).
+
+[Explore the full framework →](research/prompt_framework.md)
 
 ---
 
@@ -5,7 +75,7 @@
 
 This project didn't start in a lab — it started with real students.
 
-In July 2026, as part of the **Socionext Social Entrepreneurship Challenge**, my team (EMZAMS AI) conducted a survey of **80+ South African university students** about their AI use. The results were striking:
+In July 2026, as part of the **Socionext Social Entrepreneurship Challenge**, my team (EMZAMS AI) conducted a survey of **90+ South African university students** about their AI use. The results were striking:
 
 - **94% use AI at least weekly**, mostly to understand concepts, summarise readings, and check work.
 - The biggest frustrations: vague or irrelevant AI outputs ("slop"), not knowing how to ask for what they need.
