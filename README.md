@@ -1,43 +1,15 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
-
-body {
-  font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-a {
-  color: #ADD8E6;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-hr {
-  border: 0;
-  height: 2px;
-  background: #ADD8E6;
-  margin: 2rem 0;
-}
-</style>
-
 <div align="center">
   <img src="https://img.shields.io/badge/Prompt%20Literacy-Project-%23ADD8E6?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Literacy Project Badge">
   <br><br>
-  <h1 style="color:#ADD8E6; font-weight:700; margin-bottom:0;">Prompt Literacy Project</h1>
-  <p style="font-size:1.2rem; color:#555; margin-top:0.5rem;"><em>Why do some people consistently get better results from AI than others?</em></p>
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#ADD8E6; font-weight:700; margin-bottom:0;">Prompt Literacy Project</h1>
+  <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:1.2rem; color:#555; margin-top:0.5rem;"><em>Why do some people consistently get better results from AI than others?</em></p>
 </div>
 
 ---
 
 ## Overview
 
-The Prompt Literacy Project is an independent, evidence‑based investigation into what separates effective AI prompts from ineffective ones. It combines primary survey data from **90+ South African university students**, hands‑on experiments, and a practical teaching framework called **CLEAR** to answer one core question:
+The Prompt Literacy Project is an independent, evidence‑based investigation into what separates effective AI prompts from ineffective ones. It combines primary survey data from **80+ South African university students**, hands‑on experiments, and a practical teaching framework called **CLEAR** to answer one core question:
 
 > **Why do some people consistently get better results from AI than others — and how can we teach everyone else to do the same?**
 
@@ -174,6 +146,6 @@ This project is released under the MIT License. See `LICENSE` for details.
 ---
 
 <div align="center">
-  <p style="color:#ADD8E6; font-weight:600;">Learn smarter. Use AI better.</p>
-  <p style="font-size:0.9rem; color:#888;">— The Prompt Literacy Project, July 2026</p>
+  <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#ADD8E6; font-weight:600;">Learn smarter. Use AI better.</p>
+  <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:0.9rem; color:#888;">— The Prompt Literacy Project, July 2026</p>
 </div>
