@@ -84,7 +84,7 @@ This is a living project, and contributions are welcome.
 - Use the curriculum in a workshop or tutorial and share feedback.
 - Open an issue to discuss a research question or suggest a new experiment.
 
-The goal is to build the most practical, student-centred prompt literacy resource available — and that works best with many voices.
+The goal is to build the most practical, student‑centred prompt literacy resource available — and that works best with many voices.
 
 ---
 
@@ -104,6 +104,6 @@ This project is released under the MIT License. See `LICENSE` for details.
 ---
 
 <div align="center">
-  <p style="color:#ADD8E6;"><strong>Learn smarter. Use AI better.</strong></p>
-  <p>— The Prompt Literacy Project, July 2026</p>
+  <p style="color:#ADD8E6; font-weight:600;">Learn smarter. Use AI better.</p>
+  <p style="font-size:0.9rem; color:#888;">— The Prompt Literacy Project, July 2026</p>
 </div>
