@@ -47,7 +47,7 @@ One major outcome of this project is the **CLEAR** prompt framework — a simple
 
 This project didn't start in a lab — it started with real students.
 
-In July 2026, as part of the **Socionext Social Entrepreneurship Challenge**, my team (EMZAMS AI) conducted a survey of **90+ South African university students** about their AI use. The results were striking:
+In July 2026, as part of the **Socionext Social Entrepreneurship Challenge**, my team (EMZAMS AI) conducted a survey of **80+ South African university students** about their AI use. The results were striking:
 
 - **94% use AI at least weekly**, mostly to understand concepts, summarise readings, and check work.
 - The biggest frustrations: vague or irrelevant AI outputs ("slop"), not knowing how to ask for what they need.
